@@ -1,0 +1,5 @@
+pixxo
+-----
+
+Picture management service.
+
